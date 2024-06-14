@@ -2,7 +2,7 @@
 
 Since this bot is in its alpha stage, it will be free until full release.
 
-Hello! This is SniperBotV1, 
+Hello! This is SniperBotV1, a bot that finds bullx.io links and buys the amount you specify. Be careful, bot is in its alpha stage.
 
 --TUTORIAL--
 
